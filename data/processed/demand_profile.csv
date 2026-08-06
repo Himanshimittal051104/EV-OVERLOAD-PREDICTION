@@ -1,0 +1,4 @@
+Time_of_Day,sessions,avg_duration,avg_energy,sessions_norm,avg_duration_norm,avg_energy_norm,Demand_Score
+Afternoon,20,101.9,49.29,0.6666666666666666,0.0,0.0,0.19999999999999998
+Evening,16,114.625,67.375,0.0,1.0,1.0,0.7
+Morning,22,105.0,64.49545454545455,1.0,0.24361493123772068,0.8407771382612413,0.6496791139734607
